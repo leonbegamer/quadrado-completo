@@ -1,0 +1,36 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px cyan;
+}
+
+.note
+{
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.footer
+{
+    position: fixed;
+    color: #ffffff;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 2;
+
+}
+
+canvas
+{
+    border: 5px solid grey;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px black;
+}
+
+body{
+    background-image: url("https://img.freepik.com/fotos-premium/linhas-radiais-do-tunel-de-fluxo-de-dados-abstrato-azul-e-vermelho-fundo-estrela-de-explosao_571748-180.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1696896000&semt=ais");
+    background-size: cover;
+}
